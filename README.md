@@ -40,10 +40,6 @@ By reading a monitoring file of Network Simulation 2, the most popular network p
 
 ## Routing Control Packets
 
-**Formula**
-
-![analysis_network_performance_metrics formul](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/RCP/formul.png)
-
 **Graph**
 
 ![analysis_network_performance_metrics graph](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/RCP/grafik.png)
