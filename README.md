@@ -1,54 +1,48 @@
-[![GitHub issues(https://img.shields.io/github/issues/sabrierayozbek/analysis_network_performance_metrics.svg)](https://github.com/analysis_network_performance_metrics/issues)
-[![GitHub forks](https://img.shields.io/github/forks/sabrierayozbek/analysis_network_performance_metrics.svg)](https://github.com/analysis_network_performance_metrics/network)
-
-
 ## Introduction:
 
 By reading a monitoring file of Network Simulation 2, the most popular network performance network monitoring software; A Python script that calculates network performance monitoring metrics and charts over time.
 
-## Metrics 
-
-- Throughput
+## Throughput
 
 **Formula**
 
-![analysis_network_performance_metrics formula](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/Throughput/formula.png)
+![analysis_network_performance_metrics formul](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/Throughput/formul.png)
 
 **Graph**
 
 ![analysis_network_performance_metrics graph](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/Throughput/grafik.png)
 
-- End to End Delay
+## End to End Delay
 
 **Formula**
 
-![analysis_network_performance_metrics formula](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/EDD/formula.png)
+![analysis_network_performance_metrics formul](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/EDD/formul.png)
 
-- Packet Loss
+## Packet Loss
 
 **Formula**
 
-![analysis_network_performance_metrics formula](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/PL/formula.png)
+![analysis_network_performance_metrics formul](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/PL/formul.png)
 
 **Graph**
 
 ![analysis_network_performance_metrics graph](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/PL/grafik.png)
 
-- Packet Delivery Fraction
+## Packet Delivery Fraction
 
 **Formula**
 
-![analysis_network_performance_metrics formula](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/PDF/formula.png)
+![analysis_network_performance_metrics formul](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/PDF/formul.png)
 
 **Graph**
 
 ![analysis_network_performance_metrics graph](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/PDF/grafik.png)
 
-- Routing Control Packets
+## Routing Control Packets
 
 **Formula**
 
-![analysis_network_performance_metrics formula](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/RCP/formula.png)
+![analysis_network_performance_metrics formul](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/RCP/formul.png)
 
 **Graph**
 
