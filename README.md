@@ -1,8 +1,10 @@
+@@ -1,56 +1,11 @@
 
 [![GitHub issues(https://img.shields.io/github/issues/sabrierayozbek/analysis_network_performance_metrics.svg)](https://github.com/analysis_network_performance_metrics/issues)
 [![GitHub forks](https://img.shields.io/github/forks/sabrierayozbek/analysis_network_performance_metrics.svg)](https://github.com/analysis_network_performance_metrics/network)
 
 
+<<<<<<< HEAD
 ## Introduction:
 
 By reading a monitoring file of Network Simulation 2, the most popular network performance network monitoring software; A Python script that calculates network performance monitoring metrics and charts over time.
@@ -52,5 +54,10 @@ By reading a monitoring file of Network Simulation 2, the most popular network p
 ![analysis_network_performance_metrics formula](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/RCP/formula.png)
 
 **Graph**
+||||||| merged common ancestors
+# analysis_network_performance_metrics
+ By reading a monitoring file of Network Simulation 2, the most popular network performance network monitoring software; A Python script that calculates network performance monitoring metrics and charts over time.
+=======
 
 ![analysis_network_performance_metrics graph](https://github.com/sabrierayozbek/analysis_network_performance_metrics/blob/master/RCP/grafik.png)
+>>>>>>> b3279d2c204d94eaa1e86cd19e421b59e897f7d3
